@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,600&display=swap');
+
+.eventsCard {
+    padding-bottom: 3vh;
+    padding-top: 3vh;
+}
+
+.speakerContainer {
+    background-color: #3A5039;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.eventDateContainer {
+    background-color: #1C3D5B;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.descriptionContainer a {
+    text-decoration: none;
+}
+
+.descriptionContainer button {
+    align-self: center;
+}
+
+.speaker, .eventDate {
+    color: white;
+}

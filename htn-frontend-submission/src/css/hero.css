@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,600&display=swap');
+
+.banner_image {
+    width: 100vw;
+}
+
+.headerText {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+
+.subheaderText {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 600;
+}
+
+.textContainer {
+    position: absolute;
+    top: 0vh;
+    max-height: 40vh;
+}
